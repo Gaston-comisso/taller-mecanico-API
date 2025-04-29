@@ -42,7 +42,7 @@ Antes de comenzar, asegúrate de tener instalados:
 3. Crea y activa un entorno virtual:
    ```bash
    python -m venv venv
-   source venv/bin/activate  # En Windows usa `venv\Scriptsctivate`
+   source venv/bin/activate  # En Windows usa `venv\Scripts\activate`
    ```
 
 4. Instala las dependencias:
