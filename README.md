@@ -59,7 +59,7 @@ Antes de comenzar, asegúrate de tener instalados:
 
 7. Ejecuta el servidor:
    ```bash
-   flask run
+   python run.py
    ```
 
 ### Frontend
